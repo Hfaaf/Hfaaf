@@ -30,6 +30,8 @@
 &nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <br> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://reactnative.dev/img/header_logo.svg" alt = "react-native"  width="40" height="40"/> <a>
+    &nbsp;
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 &nbsp;
 <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
