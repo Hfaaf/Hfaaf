@@ -5,7 +5,7 @@
 
 - 🌱 Eu estou atualmente cursando **Analise e desenvolvimento de sistemas**
 
-- 📫 como falar comigo: &nbsp; <a href="heitorfariaspinheirodoamaral@gmail.com" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" width="20" heigh="20"></a> &nbsp; <a href="https://www.linkedin.com/in/heitor-amaral-09011a321/" style="text-decoration: none" target="_blank"> <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Linkedin" width="20" height="20"></a> &nbsp; <a href="https://w.app/kQ2qVH" style="text-decoration: none;" targert="_blank"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="Whatsapp" width="20" height="20"><a/>
+- 📫 como falar comigo: &nbsp; <a href="https://mail.google.com/mail/u/1/#sent?compose=CllgCKCGlsrSNzFHqjFSzGwChmxgRWWrFLVMsGFWpkqtsbQTdlJTkKHLJJDHktRndzQBGHBTGjV" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" width="20" heigh="20"></a> &nbsp; <a href="https://www.linkedin.com/in/heitor-amaral-09011a321/" style="text-decoration: none" target="_blank"> <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Linkedin" width="20" height="20"></a> &nbsp; <a href="https://w.app/kQ2qVH" style="text-decoration: none;" targert="_blank"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="Whatsapp" width="20" height="20"><a/>
 
 - ⚡ Fato aleatório **Eu tenho dois gatos**
 
