@@ -1,5 +1,5 @@
 <h1 align="center">OI, eu sou Heitor Farias</h1>
-<h3 align="center">Um designer, que estuda para se tornar desenvolvedor full stack</h3>
+<h3 align="center">Um designer que estuda para se tornar desenvolvedor full stack</h3>
 
 - 🔭 Eu atualmente trabalho na empresa **PIC COLORÊ**
 
