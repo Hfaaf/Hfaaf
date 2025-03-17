@@ -47,7 +47,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hfaaf&show_icons=true&locale=en" alt="hfaaf" /></p>
 </center>
-<hr>
-<h3 align="left">conecte-se comigo:</h3>
-<p align="left">
-</p>
