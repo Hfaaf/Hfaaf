@@ -15,7 +15,6 @@
     <a href="https://react.dev/" target='_blank'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="40px" title="React"></a>
     <a href="https://tailwindcss.com/" target='_blank'><img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" height="40px" title="TailwindCSS"></a>
     <a href="https://getbootstrap.com/" target='_blank'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="40px" title="Bootstrap"></a>
-    <a href="https://www.djangoproject.com/" target='_blank'><img src="https://brightcoding.dev/storage/brightcoding/LPZXEUOElvNnh8il1EeGPaH8MDVhHrSZ21U0Wxiu.png" height="40px" title="Django"></a>
   </li>
   <strong><h3>Back-End</h3></strong>
   <dd>Ferramentas:</dd>
@@ -24,6 +23,7 @@
      <a href="https://nodejs.org/pt" target='_blank'><img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" height="40px" title="NodeJS"></a>
      <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target='_blank'><img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" height="40px" title="C#"></a>
     <a href="https://www.djangoproject.com/" target='_blank'><img src="https://brightcoding.dev/storage/brightcoding/LPZXEUOElvNnh8il1EeGPaH8MDVhHrSZ21U0Wxiu.png" height="40px" title="Django"></a>
+    <a href="https://www.typescriptlang.org/" target='_blank'><img src="https://media.graphassets.com/auto_image/compress/cache=expiry:max/resize=width:640/STChhjrScumkWbmwsni2" height="40px" title="Typescript"></a>
   </li>
   <strong><h3>Banco de dados</h3></strong>
   <dd>Ferramentas:</dd>
