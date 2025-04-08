@@ -3,6 +3,15 @@
 <h3 align="center">Designer grafico estudando para se tornar game developer e desenvolvedor fullstack. Formação pela faculdade SENAC PE, do curso de ADS do 2° período, em busca de uma oportunidade para desenvolver e aprimorar meus conhecimentos.</h3>
 </center>
 <hr>
+<h2>Fale comigo</h2>
+<ul>
+  <li>
+    meu email: <a href="heitorfariaspinheirodoamaral@gmail.com">heitorfariaspinheirodoamaral@gmail.com</a>
+  </li>
+  <li>
+    Meu linkedin: <a href="https://www.linkedin.com/in/htor-amaral-09011a321/">Clique aqui</a>
+  </li>
+</ul>
 
 <p>Tenho experiencia em:</p>
 <ul>
