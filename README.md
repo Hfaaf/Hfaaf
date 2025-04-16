@@ -11,7 +11,7 @@
 ## 📬 Fale comigo
 
 - 📧 **Email:** [heitorfariaspinheirodoamaral@gmail.com](mailto:heitorfariaspinheirodoamaral@gmail.com)  
-- 💼 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/htor-amaral-09011a321/)
+- 💼 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/heitor-amaral-09011a321/)
 
 ---
 
