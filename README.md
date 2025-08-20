@@ -20,12 +20,13 @@
 ### 👨‍💻 Front-End
 
 <p>
-  <img src="https://static-00.iconduck.com/assets.00/html-5-icon-224x256-1b5ud2sy.png" height="30"/>
-  <img src="https://img.icons8.com/fluent/512/css3.png" height="30"/>
-  <img src="https://img.icons8.com/color/512/javascript.png" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30"/>
-  <img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="30"/>
+  <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="30"/></a>
+  <a href="https://www.w3schools.com/css/default.asp"><img src="https://img.icons8.com/fluent/512/css3.png" height="30"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.icons8.com/color/512/javascript.png" height="30"/></a>
+  <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" height="30"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="30"/></a>
+  <a href="https://reactnative.dev/"><img src="https://img.icons8.com/?size=100&id=N3G7bBnphi53&format=png&color=000000" height="30"/></a>
 </p>
 
 ---
@@ -33,19 +34,23 @@
 ### 🧠 Back-End
 
 <p>
-  <img src="https://149860134.v2.pressablecdn.com/wp-content/uploads/pythoned.png" height="30"/>
-  <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" height="30"/>
-  <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" height="30"/>
-  <img src="https://brightcoding.dev/storage/brightcoding/LPZXEUOElvNnh8il1EeGPaH8MDVhHrSZ21U0Wxiu.png" height="30"/>
-  <img src="https://media.graphassets.com/auto_image/compress/cache=expiry:max/resize=width:640/STChhjrScumkWbmwsni2" height="30"/>
+  <a href="https://www.python.org/"><img src="https://149860134.v2.pressablecdn.com/wp-content/uploads/pythoned.png" height="30"/></a>
+  <a href="https://nodejs.org/pt"><img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" height="30"/></a>
+  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" height="30"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://brightcoding.dev/storage/brightcoding/LPZXEUOElvNnh8il1EeGPaH8MDVhHrSZ21U0Wxiu.png" height="30"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" height="30"/></a>
+  <a href="https://www.java.com/pt-BR/"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="30"/></a>
 </p>
 
 ---
 
-### 🗃️ Banco de Dados
+### 🗃️Dados
 
 <p>
-  <img src="https://futuresolutionsonline.co.uk/wp-content/uploads/2023/04/mySQL-logo.png" height="30"/>
+  <a href="https://www.mysql.com/" ><img src="https://futuresolutionsonline.co.uk/wp-content/uploads/2023/04/mySQL-logo.png" height="30"/></a>
+  <a href="https://www.mongodb.com/" ><img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" height="30"/></a>
+  <a href="https://pandas.pydata.org/" ><img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" height="30"/></a>
+  <a href="https://www.r-project.org/" ><img src="https://img.icons8.com/?size=100&id=21cojJTVtdmQ&format=png&color=000000" height="30"/></a>
 </p>
 
 ---
@@ -53,9 +58,9 @@
 ### 🎮 Desenvolvimento de Jogos
 
 <p>
-  <img src="https://play-lh.googleusercontent.com/DvdO6zut4h7byRXOnmtpuyLTnC2-fPltRT-yqI0l9m_mA-U1mhDPj3NAE7IenEF1yg" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" height="30"/>
+  <a href="https://unity.com/pt" ><img src="https://play-lh.googleusercontent.com/DvdO6zut4h7byRXOnmtpuyLTnC2-fPltRT-yqI0l9m_mA-U1mhDPj3NAE7IenEF1yg" height="30"/></a>
+  <a href="https://godotengine.org/" ><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="30"/></a>
+  <a href="https://www.unrealengine.com/pt-BR" ><img src="https://img.icons8.com/?size=100&id=69503&format=png&color=000000" height="30"/></a>
 </p>
 
 ---
