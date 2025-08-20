@@ -2,7 +2,7 @@
 
 ### 🚀 Futuro Desenvolvedor Full Stack com olhar criativo de designer
 
-🎯 Buscando unir minhas habilidades em design e programação para criar soluções web e de jogos completas, inovadoras e com foco em experiência do usuário.  
+🎯 Buscando unir minhas habilidades em design e programação para criar soluções completas, inovadoras e com foco em experiência do usuário.  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas pelo **SENAC PE (2º período)**  
 💡 Apaixonado por tecnologia, interfaces intuitivas e desenvolvimento multiplataforma.
 
