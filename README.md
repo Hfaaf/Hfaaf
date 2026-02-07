@@ -40,6 +40,7 @@
   <a href="https://www.djangoproject.com/"><img src="https://brightcoding.dev/storage/brightcoding/LPZXEUOElvNnh8il1EeGPaH8MDVhHrSZ21U0Wxiu.png" height="30"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" height="30"/></a>
   <a href="https://www.java.com/pt-BR/"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="30"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="30" /></a>
 </p>
 
 ---
